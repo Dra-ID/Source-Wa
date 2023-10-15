@@ -9,5 +9,5 @@ Minimal Kasih star lah
 pkg install git
 git clone https://github.com/Dra-ID/Source-Wa
 cd Source-Wa
-pip install -rf requirements.txt
+pip install -r requirements.txt
 python run.py
